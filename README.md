@@ -1,4 +1,4 @@
-- 👋 @CodeBoxSas
+- 👋 @CodeBOX SAS
 - 👀 Team LATAM
 - 🌱 Seeding solutions
 
